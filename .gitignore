@@ -56,3 +56,8 @@ vcpkg_installed
 flutter/lib/generated_plugin_registrant.dart
 libsciter.dylib
 flutter/web/
+
+# Local Android run/debug artifacts
+flutter/docs/android-local-run-notes.zh-cn.md
+flutter/pubspec.lock
+libs/hbb_common
